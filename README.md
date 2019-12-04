@@ -37,7 +37,6 @@
 #### （3）其他相关曲线
 ![image](https://github.com/12real/Robust-Control-HW3-4-/blob/master/LMI_robust.png) 
 
-
 ## 《鲁棒控制》课程建议
 
 
