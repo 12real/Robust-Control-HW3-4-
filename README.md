@@ -11,10 +11,10 @@
 ### 2.2控制器波特图
 ![image](https://github.com/12real/Robust-Control-HW3-4-/blob/master/DGKF_K_bode.png) 
 ### 3.相关性能曲线
-（1）阶跃响应曲线
+#### （1）阶跃响应曲线
 ![image](https://github.com/12real/Robust-Control-HW3-4-/blob/master/DGKF_step_response.png) 
-（2）干扰响应曲线
+#### （2）干扰响应曲线
 ![image](https://github.com/12real/Robust-Control-HW3-4-/blob/master/DGKF_step_disturb_response.png) 
-（3）其他相关曲线
+#### （3）其他相关曲线
 ![image](https://github.com/12real/Robust-Control-HW3-4-/blob/master/DGKF_robust.png) 
 ## HW 4（LMI设计磁盘控制器）
